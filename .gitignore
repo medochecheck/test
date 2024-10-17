@@ -1,0 +1,31 @@
+# Игнорировать временные и сгенерированные папки
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]serSettings/
+.vs/
+
+# Игнорировать пользовательские файлы и папки
+*.csproj
+*.sln
+*.user
+*.pidb
+*.suo
+*.userprefs
+
+# Игнорировать ресурсы LFS
+*.psd
+*.tiff
+*.mp4
+*.mov
+*.jpg
+*.jpeg
+*.png
+*.fbx
+*.wav
+*.mp3
+*.ogg
+*.zip
